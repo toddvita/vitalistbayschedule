@@ -1,5 +1,5 @@
 
-        const scheduleDay3 = [
+[
             {
                 time: '7:00 AM',
                 events: [{
