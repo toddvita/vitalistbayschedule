@@ -1,345 +1,345 @@
   [
             {
-                time: '7:00 AM',
-                events: [{
-                    type: 'ACTIVITY',
-                    location: 'Main Stage',
-                    title: 'Meditation'
+                "time": "7:00 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Meditation"
                 }]
             },
             {
-                time: '8:00 AM',
-                events: [{
-                    type: 'SOCIAL',
-                    location: 'Main Stage',
-                    title: 'Registration starts, Sauna and Cold Plunge, Coffee and light breakfast'
+                "time": "8:00 AM",
+                "events": [{
+                    "type": "SOCIAL", 
+                    "location": "Main Stage",
+                    "title": "Registration starts, Sauna and Cold Plunge, Coffee and light breakfast"
                 }]
             },
             {
-                time: '8:30 AM',
-                events: [
+                "time": "8:30 AM",
+                "events": [
                     {
-                        type: 'ACTIVITY',
-                        location: 'Main Stage',
-                        title: 'Ecstatic Dance, Sauna and Cold Plunge, Coffee and light breakfast'
+                        "type": "ACTIVITY",
+                        "location": "Main Stage",
+                        "title": "Ecstatic Dance, Sauna and Cold Plunge, Coffee and light breakfast"
                     },
                     {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Outdoor',
-                        title: 'Ecstatic Dance'
+                        "type": "ACTIVITY",
+                        "location": "Activation Area Outdoor",
+                        "title": "Ecstatic Dance"
                     }
                 ]
             },
             {
-                time: '9:00 AM',
-                events: [
+                "time": "9:00 AM",
+                "events": [
                     {
-                        type: 'ACTIVITY',
-                        location: 'Main Stage',
-                        title: 'Ecstatic Dance, Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens'
+                        "type": "ACTIVITY",
+                        "location": "Main Stage",
+                        "title": "Ecstatic Dance, Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
                     },
                     {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Outdoor',
-                        title: 'Ecstatic Dance'
+                        "type": "ACTIVITY",
+                        "location": "Activation Area Outdoor",
+                        "title": "Ecstatic Dance"
                     }
                 ]
             },
             {
-                time: '10:00 AM',
-                events: [{
-                    type: 'TALK',
-                    location: 'Main Stage',
-                    title: 'Brief Welcome Remarks',
-                    speaker: 'Adam Gries'
+                "time": "10:00 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Brief Welcome Remarks",
+                    "speaker": "Adam Gries"
                 }]
             },
             {
-                time: '10:10 AM',
-                events: [{
-                    type: 'TALK',
-                    location: 'Main Stage',
-                    title: 'Longevity Intelligence: Understand the Major Risks In Your Health and Unlock Your Longevity Potential',
-                    speaker: 'Siim Land'
+                "time": "10:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Longevity Intelligence: Understand the Major Risks In Your Health and Unlock Your Longevity Potential",
+                    "speaker": "Siim Land"
                 }]
             },
             {
-                time: '10:30 AM',
-                events: [{
-                    type: 'TALK',
-                    location: 'Main Stage',
-                    title: 'Longevity Intelligence: Understand the Major Risks In Your Health and Unlock Your Longevity Potential',
-                    speaker: 'Siim Land'
+                "time": "10:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Longevity Intelligence: Understand the Major Risks In Your Health and Unlock Your Longevity Potential",
+                    "speaker": "Siim Land"
                 }]
             },
             {
-                time: '10:50 AM',
-                events: [{
-                    type: 'BREAK',
-                    location: 'Main Stage',
-                    title: 'Break'
+                "time": "10:50 AM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
                 }]
             },
             {
-                time: '11:10 AM',
-                events: [{
-                    type: 'TALK',
-                    location: 'Main Stage',
-                    title: 'Testosterone: The Driving Force …of what?',
-                    speaker: 'Joseph Everett'
+                "time": "11:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Testosterone: The Driving Force …of what?",
+                    "speaker": "Joseph Everett"
                 }]
             },
             {
-                time: '11:30 AM',
-                events: [{
-                    type: 'TALK',
-                    location: 'Main Stage',
-                    title: 'Come with me if you want to live',
-                    speaker: 'Farbood Nivi'
+                "time": "11:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Come with me if you want to live",
+                    "speaker": "Farbood Nivi"
                 }]
             },
             {
-                time: '11:50 AM',
-                events: [{
-                    type: 'NETWORKING',
-                    location: 'Main Stage',
-                    title: 'Lightning Networking x Exploration'
+                "time": "11:50 AM",
+                "events": [{
+                    "type": "NETWORKING",
+                    "location": "Main Stage",
+                    "title": "Lightning Networking x Exploration"
                 },
                 {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Outdoor',
-                        title: 'Body Mind Method 7 Minute Refresher'
+                        "type": "ACTIVITY",
+                        "location": "Activation Area Outdoor",
+                        "title": "Body Mind Method 7 Minute Refresher"
                 }
               ]
             },
             {
-                time: '12:10 PM',
-                events: [{
-                    type: 'NETWORKING',
-                    location: 'Main Stage',
-                    title: 'Lightning Networking x Exploration'
+                "time": "12:10 PM",
+                "events": [{
+                    "type": "NETWORKING",
+                    "location": "Main Stage",
+                    "title": "Lightning Networking x Exploration"
                 }]
             },
             {
-                time: '12:30 PM',
-                events: [{
-                    type: 'BREAK',
-                    location: 'Main Stage',
-                    title: 'Lunch'
+                "time": "12:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Lunch"
                 }]
             },
             {
-                time: '1:30 PM',
-                events: [
+                "time": "1:30 PM",
+                "events": [
                     {
-                        type: 'TALK',
-                        location: 'Main Stage',
-                        title: 'Siim + Farb + Joseph - Fireside',
-                        speakers: ['Siim Land', 'Farbood Nivi', 'Joseph Everett']
+                        "type": "TALK",
+                        "location": "Main Stage",
+                        "title": "Siim + Farb + Joseph - Fireside",
+                        "speakers": ["Siim Land", "Farbood Nivi", "Joseph Everett"]
                     },
                     {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Outdoor',
-                        title: 'Krav Maga (Self Defense)'
+                        "type": "ACTIVITY",
+                        "location": "Activation Area Outdoor",
+                        "title": "Krav Maga (Self Defense)"
                     }
                 ]
             },
             {
-                time: '1:50 PM',
-                events: [
+                "time": "1:50 PM",
+                "events": [
                     {
-                        type: 'TALK',
-                        location: 'Main Stage',
-                        title: 'Siim + Farb + Joseph - Fireside',
-                        speakers: ['Siim Land', 'Farbood Nivi', 'Joseph Everett']
+                        "type": "TALK",
+                        "location": "Main Stage",
+                        "title": "Siim + Farb + Joseph - Fireside",
+                        "speakers": ["Siim Land", "Farbood Nivi", "Joseph Everett"]
                     },
                     {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Outdoor',
-                        title: 'Krav Maga (Self Defense)'
+                        "type": "ACTIVITY",
+                        "location": "Activation Area Outdoor",
+                        "title": "Krav Maga (Self Defense)"
                     }
                 ]
             },
             {
-                time: '2:10 PM',
-                events: [
+                "time": "2:10 PM",
+                "events": [
                     {
-                        type: 'TALK',
-                        location: 'Main Stage',
-                        title: 'The single most consequential piece of health data is missing in U.S. healthcare. Why?',
-                        speaker: 'Kian Sadeghi'
+                        "type": "TALK",
+                        "location": "Main Stage",
+                        "title": "The single most consequential piece of health data is missing in U.S. healthcare. Why?",
+                        "speaker": "Kian Sadeghi"
                     },
                     {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Outdoor',
-                        title: 'Krav Maga (Self Defense)'
+                        "type": "ACTIVITY",
+                        "location": "Activation Area Outdoor",
+                        "title": "Krav Maga (Self Defense)"
                     }
                 ]
             },
             {
-                time: '2:30 PM',
-                events: [{
-                    type: 'BREAK',
-                    location: 'Main Stage',
-                    title: 'Break'
+                "time": "2:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
                 }]
             },
             {
-                time: '2:50 PM',
-                events: [
+                "time": "2:50 PM",
+                "events": [
                     {
-                        type: 'TALK',
-                        location: 'Main Stage',
-                        title: 'How to suffer less',
-                        speaker: 'Orion Taraban'
+                        "type": "TALK",
+                        "location": "Main Stage",
+                        "title": "How to suffer less",
+                        "speaker": "Orion Taraban"
                     },
                     {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Outdoor',
-                        title: 'Body Mind Method - neuroplasticity in action'
+                        "type": "ACTIVITY",
+                        "location": "Activation Area Outdoor",
+                        "title": "Body Mind Method - neuroplasticity in action"
                     },
                     {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Indoor',
-                        title: 'HIIT'
+                        "type": "ACTIVITY",
+                        "location": "Activation Area Indoor",
+                        "title": "HIIT"
                     }
                 ]
             },
             {
-                time: '3:10 PM',
-                events: [
+                "time": "3:10 PM",
+                "events": [
                     {
-                        type: 'TALK',
-                        location: 'Main Stage',
-                        title: 'Rejuvenation with Age-reversed Stem Cells (iPSCs): Science Meets Reality',
-                        speaker: 'Koji Tanabe'
+                        "type": "TALK",
+                        "location": "Main Stage",
+                        "title": "Rejuvenation with Age-reversed Stem Cells (iPSCs): Science Meets Reality",
+                        "speaker": "Koji Tanabe"
                     },
                     {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Outdoor',
-                        title: 'Body Mind Method - neuroplasticity in action'
+                        "type": "ACTIVITY",
+                        "location": "Activation Area Outdoor",
+                        "title": "Body Mind Method - neuroplasticity in action"
                     },
                     {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Indoor',
-                        title: 'HIIT'
+                        "type": "ACTIVITY",
+                        "location": "Activation Area Indoor",
+                        "title": "HIIT"
                     }
                 ]
             },
             {
-                time: '3:30 PM',
-                events: [
+                "time": "3:30 PM",
+                "events": [
                     {
-                        type: 'TALK',
-                        location: 'Main Stage',
-                        title: 'Nutrition, Wearables and AI',
-                        speaker: 'Ari Tulla'
+                        "type": "TALK",
+                        "location": "Main Stage",
+                        "title": "Nutrition, Wearables and AI",
+                        "speaker": "Ari Tulla"
                     },
                     {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Outdoor',
-                        title: 'Body Mind Method - neuroplasticity in action'
+                        "type": "ACTIVITY",
+                        "location": "Activation Area Outdoor",
+                        "title": "Body Mind Method - neuroplasticity in action"
                     },
                     {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Indoor',
-                        title: 'HIIT'
+                        "type": "ACTIVITY",
+                        "location": "Activation Area Indoor",
+                        "title": "HIIT"
                     }
                 ]
             },
             {
-                time: '3:50 PM',
-                events: [{
-                    type: 'BREAK',
-                    location: 'Main Stage',
-                    title: 'Break'
+                "time": "3:50 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
                 }]
             },
             {
-                time: '4:10 PM',
-                events: [
+                "time": "4:10 PM",
+                "events": [
                     {
-                        type: 'TALK',
-                        location: 'Main Stage',
-                        title: 'How to be in the 99.99% in HRV',
-                        speaker: 'Goktug Yilmaz'
+                        "type": "TALK",
+                        "location": "Main Stage",
+                        "title": "How to be in the 99.99% in HRV",
+                        "speaker": "Goktug Yilmaz"
                     },
                     {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Outdoor',
-                        title: 'Tap into Connection - ice breaker workshop (90 min)'
+                        "type": "ACTIVITY",
+                        "location": "Activation Area Outdoor",
+                        "title": "Tap into Connection - ice breaker workshop (90 min)"
                     }
                 ]
             },
             {
-                time: '4:30 PM',
-                events: [
+                "time": "4:30 PM",
+                "events": [
                     {
-                        type: 'TALK',
-                        location: 'Main Stage',
-                        title: 'Banking Your Stem Cells',
-                        speaker: 'Drew Taylor'
+                        "type": "TALK",
+                        "location": "Main Stage",
+                        "title": "Banking Your Stem Cells",
+                        "speaker": "Drew Taylor"
                     },
                     {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Outdoor',
-                        title: 'Tap into Connection - ice breaker workshop (90 min)'
+                        "type": "ACTIVITY",
+                        "location": "Activation Area Outdoor",
+                        "title": "Tap into Connection - ice breaker workshop (90 min)"
                     }
                 ]
             },
             {
-                time: '4:50 PM',
-                events: [
+                "time": "4:50 PM",
+                "events": [
                     {
-                        type: 'TALK',
-                        location: 'Main Stage',
-                        title: 'Insights about Health, Wellness and Longevity Apps',
-                        speaker: 'Aykut Karaalioglu'
+                        "type": "TALK",
+                        "location": "Main Stage",
+                        "title": "Insights about Health, Wellness and Longevity Apps",
+                        "speaker": "Aykut Karaalioglu"
                     },
                     {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Outdoor',
-                        title: 'Tap into Connection - ice breaker workshop (90 min)'
+                        "type": "ACTIVITY",
+                        "location": "Activation Area Outdoor",
+                        "title": "Tap into Connection - ice breaker workshop (90 min)"
                     }
                 ]
             },
             {
-                time: '5:10 PM',
-                events: [
+                "time": "5:10 PM",
+                "events": [
                     {
-                        type: 'PITCH',
-                        location: 'Main Stage',
-                        title: 'Startup Showcase'
+                        "type": "PITCH",
+                        "location": "Main Stage",
+                        "title": "Startup Showcase"
                     },
                     {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Outdoor',
-                        title: 'Tap into Connection - ice breaker workshop (90 min)'
+                        "type": "ACTIVITY",
+                        "location": "Activation Area Outdoor",
+                        "title": "Tap into Connection - ice breaker workshop (90 min)"
                     }
                 ]
             },
             {
-                time: '5:40 PM',
-                events: [{
-                    type: 'SOCIAL',
-                    location: 'Main Stage',
-                    title: 'Open Hang out / Music / Show'
+                "time": "5:40 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Open Hang out / Music / Show"
                 }]
             },
             {
-                time: '6:30 PM',
-                events: [{
-                    type: 'ACTIVITY',
-                    location: 'Main Stage',
-                    title: 'Clear Out'
+                "time": "6:30 PM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Clear Out"
                 }]
             },
             {
-                time: '8:30 PM',
-                events: [{
-                    type: 'SOCIAL',
-                    location: 'Main Stage',
-                    title: 'Afterparty'
+                "time": "8:30 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Afterparty"
                 }]
             }
-        ];
+        ]
