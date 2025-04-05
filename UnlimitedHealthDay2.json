@@ -1,298 +1,295 @@
-
- [
+[
+    {
+        "time": "7:00 AM",
+        "events": [{
+            "type": "ACTIVITY",
+            "location": "Main Stage",
+            "title": "Meditation"
+        }]
+    },
+    {
+        "time": "8:00 AM",
+        "events": [{
+            "type": "SOCIAL", 
+            "location": "Main Stage",
+            "title": "Registration starts, Sauna and Cold Plunge, Coffee and light breakfast"
+        }]
+    },
+    {
+        "time": "8:30 AM",
+        "events": [
             {
-                time: '7:00 AM',
-                events: [{
-                    type: 'ACTIVITY',
-                    location: 'Main Stage',
-                    title: 'Meditation'
-                }]
+                "type": "ACTIVITY",
+                "location": "Main Stage", 
+                "title": "Sauna and Cold Plunge, Coffee and light breakfast"
             },
             {
-                time: '8:00 AM',
-                events: [{
-                    type: 'SOCIAL',
-                    location: 'Main Stage',
-                    title: 'Registration starts, Sauna and Cold Plunge, Coffee and light breakfast'
-                }]
-            },
-            {
-                time: '8:30 AM',
-                events: [
-                    {
-                        type: 'ACTIVITY',
-                        location: 'Main Stage',
-                        title: 'Sauna and Cold Plunge, Coffee and light breakfast'
-                    },
-                    {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Indoor',
-                        title: 'Wim Hofman method breathing'
-                    }
-                ]
-            },
-            {
-                time: '9:00 AM',
-                events: [
-                    {
-                        type: 'ACTIVITY',
-                        location: 'Main Stage',
-                        title: 'auna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens'
-                    },
-                    {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Indoor',
-                        title: 'Wim Hofman method breathing'
-                    }
-                ]
-            },
-            {
-                time: '10:10 AM',
-                events: [{
-                    type: 'BREAK',
-                    location: 'Main Stage',
-                    title: 'Break'
-                }]
-            },
-            {
-                time: '10:30 AM',
-                events: [{
-                    type: 'TALK',
-                    location: 'Main Stage',
-                    title: 'The four pillars of healthspan: energy, information, structure, & purpose. A blueprint for vitality and longevity',
-                    speaker: 'Molly Maloof'
-                },
-		        {
-                    type: 'ACTIVITY',
-                    location: 'Activation Area Indoor',
-                    title: 'Meditation'
-                }
-		]
-            },
-            {
-                time: '10:50 AM',
-                events: [{
-                    type: 'BREAK',
-                    location: 'Main Stage',
-                    title: 'Break'
-                }]
-            },
-            {
-                time: '11:10 AM',
-                events: [{
-                    type: 'TALK',
-                    location: 'Main Stage',
-                    title: 'The State of Longevity Biotech',
-                    speaker: 'Nathan Cheng'
-                }
-                {
-                    type: 'ACTIVITY',
-                    location: 'Activation Area Indoor',
-                    title: 'Meditation'
-                }]
-            },
-            {
-                time: '11:30 AM',
-                events: [{
-                    type: 'TALK',
-                    location: 'Main Stage',
-                    title: 'The Future is Now: Cutting-Edge Advancements in Cell and Gene Therapies (20 min + 10 min QA)',
-                    speaker: 'Adeel Khan'
-                }]
-            },
-            {
-                time: '12:00 PM',
-                events: [{
-                    type: 'SOCIAL',
-                    location: 'Main Stage',
-                    title: 'Fireside'
-                    speakers: ['Adeel Khan', 'Chris Mirabile', 'Molly Maloof']
-                }
-              ]
-            },
-            {
-                time: '12:30 PM',
-                events: [{
-                    type: 'BREAK',
-                    location: 'Main Stage',
-                    title: 'Lunch'
-                }]
-            },
-            {
-                time: '1:30 PM',
-                events: [
-                    {
-                        type: 'TALK',
-                        location: 'Main Stage',
-                        title: 'The mindful brain: how mindfulness rewires us for longevity',
-                        speaker: 'Virginia Gambardella'
-                    },
-                    {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Indoor',
-                        title: 'Breathgasm: Regulate, Release, Rinse'
-                    }
-                ]
-            },
-            {
-                time: '1:50 PM',
-                events: [
-                    {
-                        type: 'TALK',
-                        location: 'Main Stage',
-                        title: 'Longevity: Bright lights versus Reality',
-                        speaker: 'Joseph Everett'
-                    },
-                    {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Indoor',
-                        title: 'Breathgasm: Regulate, Release, Rinse'
-                    }
-                ]
-            },
-            {
-                time: '2:10 PM',
-                events: [
-                    {
-                        type: 'TALK',
-                        location: 'Main Stage',
-                        title: 'We won\'t solve aging in time unless we do this',
-                        speaker: 'Adam Gries'
-                    },
-                    {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Indoor',
-                        title: 'Breathgasm: Regulate, Release, Rinse'
-                    }
-                ]
-            },
-            {
-                time: '2:30 PM',
-                events: [{
-                    type: 'BREAK',
-                    location: 'Main Stage',
-                    title: 'Break'
-                }]
-            },
-            {
-                time: '2:50 PM',
-                events: [
-                    {
-                        type: 'TALK',
-                        location: 'Main Stage',
-                        title: 'Enhancing human intelligence',
-                        speaker: 'Chase Denecke'
-                    },
-                    {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Outdoor',
-                        title: 'Krav Maga (Self Defense)'
-                    }
-                ]
-            },
-            {
-                time: '3:10 PM',
-                events: [
-                    {
-                        type: 'TALK',
-                        location: 'Main Stage',
-                        title: 'Overcoming Age Limitations in Pregnancy: Advancing Reproductive Medicine with iPS Cell-Derived Oocytes',
-                        speaker: 'Kazuma Kishida'
-                    },
-                    {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Outdoor',
-                        title: 'Krav Maga (Self Defense)'
-                    }
-                ]
-            },
-            {
-                time: '3:30 PM',
-                events: [
-                    {
-                        type: 'TALK',
-                        location: 'Main Stage',
-                        title: 'The biggest longevity clinic in the world',
-                        speaker: 'Clara Fernandez'
-                    },
-                    {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Outdoor',
-                        title: 'Krav Maga (Self Defense)'
-                    }
-                ]
-            },
-            {
-                time: '3:50 PM',
-                events: [{
-                    type: 'BREAK',
-                    location: 'Main Stage',
-                    title: 'Break'
-                }]
-            },
-            {
-                time: '4:10 PM',
-                events: [
-                    {
-                        type: 'TALK',
-                        location: 'Main Stage',
-                        title: 'The Brain\'s Primacy in Considerations of Antiaging and Life Extension: Strategies for Neuroprotection and Health',
-                        speaker: 'Paul Kiesow'
-                    },
-                    {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Outdoor',
-                        title: 'Animal Flow'
-                    }
-                ]
-            },
-            {
-                time: '4:30 PM',
-                events: [
-                    {
-                        type: 'TALK',
-                        location: 'Main Stage',
-                        title: 'Diagnostics, testing, interpreting and using your health data',
-                        speaker: 'Laila Zemrani'
-                    },
-                    {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Outdoor',
-                        title: 'Animal Flow'
-                    }
-                ]
-            },
-            {
-                time: '4:50 PM',
-                events: [
-                    {
-                        type: 'PITCH',
-                        location: 'Main Stage',
-                        title: 'Charity Showcase / Auction',
-                    },
-                    {
-                        type: 'ACTIVITY',
-                        location: 'Activation Area Outdoor',
-                        title: 'Animal Flow'
-                    }
-                ]
-            },
-            {
-                time: '5:30 PM',
-                events: [
-                    {
-                        type: 'PITCH',
-                        location: 'Main Stage',
-                        title: 'Open Hang out / Music / Show'
-                    }
-                ]
+                "type": "ACTIVITY",
+                "location": "Activation Area Indoor",
+                "title": "Wim Hofman method breathing"
             }
+        ]
+    },
+    {
+        "time": "9:00 AM",
+        "events": [
             {
-                time: '6:30 PM',
-                events: [{
-                    type: 'ACTIVITY',
-                    location: 'Main Stage',
-                    title: 'Clear Out'
-                }]
+                "type": "ACTIVITY",
+                "location": "Main Stage",
+                "title": "auna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+            },
+            {
+                "type": "ACTIVITY",
+                "location": "Activation Area Indoor",
+                "title": "Wim Hofman method breathing"
             }
-        ];
+        ]
+    },
+    {
+        "time": "10:10 AM",
+        "events": [{
+            "type": "BREAK",
+            "location": "Main Stage",
+            "title": "Break"
+        }]
+    },
+    {
+        "time": "10:30 AM",
+        "events": [{
+            "type": "TALK",
+            "location": "Main Stage",
+            "title": "The four pillars of healthspan: energy, information, structure, & purpose. A blueprint for vitality and longevity",
+            "speaker": "Molly Maloof"
+        },
+        {
+            "type": "ACTIVITY",
+            "location": "Activation Area Indoor",
+            "title": "Meditation"
+        }]
+    },
+    {
+        "time": "10:50 AM",
+        "events": [{
+            "type": "BREAK",
+            "location": "Main Stage",
+            "title": "Break"
+        }]
+    },
+    {
+        "time": "11:10 AM",
+        "events": [{
+            "type": "TALK",
+            "location": "Main Stage",
+            "title": "The State of Longevity Biotech",
+            "speaker": "Nathan Cheng"
+        },
+        {
+            "type": "ACTIVITY",
+            "location": "Activation Area Indoor",
+            "title": "Meditation"
+        }]
+    },
+    {
+        "time": "11:30 AM",
+        "events": [{
+            "type": "TALK",
+            "location": "Main Stage",
+            "title": "The Future is Now: Cutting-Edge Advancements in Cell and Gene Therapies (20 min + 10 min QA)",
+            "speaker": "Adeel Khan"
+        }]
+    },
+    {
+        "time": "12:00 PM",
+        "events": [{
+            "type": "SOCIAL",
+            "location": "Main Stage",
+            "title": "Fireside",
+            "speakers": ["Adeel Khan", "Chris Mirabile", "Molly Maloof"]
+        }]
+    },
+    {
+        "time": "12:30 PM",
+        "events": [{
+            "type": "BREAK",
+            "location": "Main Stage",
+            "title": "Lunch"
+        }]
+    },
+    {
+        "time": "1:30 PM",
+        "events": [
+            {
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "The mindful brain: how mindfulness rewires us for longevity",
+                "speaker": "Virginia Gambardella"
+            },
+            {
+                "type": "ACTIVITY",
+                "location": "Activation Area Indoor",
+                "title": "Breathgasm: Regulate, Release, Rinse"
+            }
+        ]
+    },
+    {
+        "time": "1:50 PM",
+        "events": [
+            {
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Longevity: Bright lights versus Reality",
+                "speaker": "Joseph Everett"
+            },
+            {
+                "type": "ACTIVITY",
+                "location": "Activation Area Indoor",
+                "title": "Breathgasm: Regulate, Release, Rinse"
+            }
+        ]
+    },
+    {
+        "time": "2:10 PM",
+        "events": [
+            {
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "We won't solve aging in time unless we do this",
+                "speaker": "Adam Gries"
+            },
+            {
+                "type": "ACTIVITY",
+                "location": "Activation Area Indoor",
+                "title": "Breathgasm: Regulate, Release, Rinse"
+            }
+        ]
+    },
+    {
+        "time": "2:30 PM",
+        "events": [{
+            "type": "BREAK",
+            "location": "Main Stage",
+            "title": "Break"
+        }]
+    },
+    {
+        "time": "2:50 PM",
+        "events": [
+            {
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Enhancing human intelligence",
+                "speaker": "Chase Denecke"
+            },
+            {
+                "type": "ACTIVITY",
+                "location": "Activation Area Outdoor",
+                "title": "Krav Maga (Self Defense)"
+            }
+        ]
+    },
+    {
+        "time": "3:10 PM",
+        "events": [
+            {
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Overcoming Age Limitations in Pregnancy: Advancing Reproductive Medicine with iPS Cell-Derived Oocytes",
+                "speaker": "Kazuma Kishida"
+            },
+            {
+                "type": "ACTIVITY",
+                "location": "Activation Area Outdoor",
+                "title": "Krav Maga (Self Defense)"
+            }
+        ]
+    },
+    {
+        "time": "3:30 PM",
+        "events": [
+            {
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "The biggest longevity clinic in the world",
+                "speaker": "Clara Fernandez"
+            },
+            {
+                "type": "ACTIVITY",
+                "location": "Activation Area Outdoor",
+                "title": "Krav Maga (Self Defense)"
+            }
+        ]
+    },
+    {
+        "time": "3:50 PM",
+        "events": [{
+            "type": "BREAK",
+            "location": "Main Stage",
+            "title": "Break"
+        }]
+    },
+    {
+        "time": "4:10 PM",
+        "events": [
+            {
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "The Brain's Primacy in Considerations of Antiaging and Life Extension: Strategies for Neuroprotection and Health",
+                "speaker": "Paul Kiesow"
+            },
+            {
+                "type": "ACTIVITY",
+                "location": "Activation Area Outdoor",
+                "title": "Animal Flow"
+            }
+        ]
+    },
+    {
+        "time": "4:30 PM",
+        "events": [
+            {
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Diagnostics, testing, interpreting and using your health data",
+                "speaker": "Laila Zemrani"
+            },
+            {
+                "type": "ACTIVITY",
+                "location": "Activation Area Outdoor",
+                "title": "Animal Flow"
+            }
+        ]
+    },
+    {
+        "time": "4:50 PM",
+        "events": [
+            {
+                "type": "PITCH",
+                "location": "Main Stage",
+                "title": "Charity Showcase / Auction"
+            },
+            {
+                "type": "ACTIVITY",
+                "location": "Activation Area Outdoor",
+                "title": "Animal Flow"
+            }
+        ]
+    },
+    {
+        "time": "5:30 PM",
+        "events": [
+            {
+                "type": "PITCH",
+                "location": "Main Stage",
+                "title": "Open Hang out / Music / Show"
+            }
+        ]
+    },
+    {
+        "time": "6:30 PM",
+        "events": [{
+            "type": "ACTIVITY",
+            "location": "Main Stage",
+            "title": "Clear Out"
+        }]
+    }
+]
