@@ -1,0 +1,338 @@
+{
+    "day1": {
+        "date": "April 12th",
+        "schedule": [
+            {
+                "time": "7:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Bayes House - Attic", 
+                    "title": "Yoga - Dominique Darvas (60 mins)",
+                    "speaker": ""
+                }]
+            },
+            {
+                "time": "9:50 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Opening remarks",
+                    "speaker": "Mahdi Moqri"
+                }]
+            },
+            {
+                "time": "10:00 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Validating Biomarkers of Aging",
+                    "speaker": "Mahdi Moqri"
+                }]
+            },
+            {
+                "time": "10:20 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Cell reprogramming, safety and the dance of the black-boxes",
+                    "speaker": "Daniel Ives"
+                }]
+            },
+            {
+                "time": "10:40 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Excess Intracellular Cholesterol as a Hallmark of Aging",
+                    "speaker": "Reason"
+                }]
+            },
+            {
+                "time": "11:00 AM",
+                "events": [
+                    {
+                        "type": "BREAK",
+                        "location": "Main Stage",
+                        "title": "Break"
+                    },
+                    {
+                        "type": "ACTIVITY",
+                        "location": "Cantor Cottage",
+                        "title": "Breathwork - Michelle Flores (20 mins)",
+                        "speaker": ""
+                    }
+                ]
+            },
+            {
+                "time": "11:20 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Keeping the power on for healthy longevity",
+                    "speaker": "Keshav Singh"
+                }]
+            },
+            {
+                "time": "11:40 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Grand Strategy for Longevity",
+                    "speaker": "Martin Borch Jensen"
+                }]
+            },
+            {
+                "time": "12:20 PM",
+                "events": [
+                    {
+                        "type": "BREAK",
+                        "location": "Main Stage",
+                        "title": "Lunch"
+                    },
+                    {
+                        "type": "ACTIVITY",
+                        "location": "Cantor Cottage",
+                        "title": "HIIT - Victoria Forest (45 min)",
+                        "speaker": ""
+                    }
+                ]
+            },
+            {
+                "time": "2:00 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Partial Reprogramming Therapies for Alzheimer's and other Brain Diseases",
+                    "speaker": "Yuri Deigin"
+                }]
+            },
+            {
+                "time": "2:20 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Delaying Aging",
+                    "speaker": "Alan Tomusiak"
+                }]
+            },
+            {
+                "time": "2:40 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Disease and Death - The Real Competition - and how to beat them",
+                    "speaker": "Kevin Perrott"
+                }]
+            },
+            {
+                "time": "3:00 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "3:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Do biological age clocks truly capture how our bodies age?",
+                    "speakers": ["Mahdi Moqri", "Daniel Ives"]
+                }]
+            },
+            {
+                "time": "4:30 PM",
+                "events": [{
+                    "type": "PITCH",
+                    "location": "Main Stage",
+                    "title": "Startup Lightning Pitches"
+                }]
+            },
+            {
+                "time": "5:00 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Speaker Salons (Location: Various Workshop Spaces)",
+                    "speakers": ["Aubrey de Grey", "Adam Gries", "Alan Tomusiak", "Eleanor Sheekey", "Reason", "Yuri Deigin"]
+                }]
+            },
+            {
+                "time": "6:00 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Social"
+                }]
+            }
+        ]
+    },
+    "day2": {
+        "date": "April 13th",
+        "schedule": [
+            {
+                "time": "7:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Bayes House - Attic",
+                    "title": "Yoga - Dominique Darvas (60 mins)",
+                    "speaker": ""
+                }]
+            },
+            {
+                "time": "9:55 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Opening remarks"
+                }]
+            },
+            {
+                "time": "10:00 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Taking rejuvenation to longevity escape velocity",
+                    "speaker": "Aubrey de Grey"
+                }]
+            },
+            {
+                "time": "10:20 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Cells vs. The extracellular matrix: Who's in control of tissue aging",
+                    "speaker": "Eleanor Sheekey"
+                }]
+            },
+            {
+                "time": "10:40 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Aging, Atherosclerosis, and the Future of Longevity: Cyclarity's First Drug in Human Trials",
+                    "speaker": "Matthew O'Connor"
+                }]
+            },
+            {
+                "time": "11:00 AM",
+                "events": [
+                    {
+                        "type": "BREAK",
+                        "location": "Main Stage",
+                        "title": "Break"
+                    },
+                    {
+                        "type": "ACTIVITY",
+                        "location": "Main Stage",
+                        "title": "Pilates - Victoria Forest (60 mins)",
+                        "speaker": ""
+                    }
+                ]
+            },
+            {
+                "time": "11:20 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Integrative Longevity Medicine: future perspectives of combination therapies targeting aging biology",
+                    "speaker": "Marco Quarta"
+                }]
+            },
+            {
+                "time": "11:40 AM",
+                "events": [{
+                    "type": "NETWORKING",
+                    "location": "Main Stage",
+                    "title": "Lightning Networking"
+                }]
+            },
+            {
+                "time": "12:20 PM",
+                "events": [
+                    {
+                        "type": "BREAK",
+                        "location": "Main Stage",
+                        "title": "Lunch"
+                    },
+                    {
+                        "type": "ACTIVITY",
+                        "location": "Main Stage",
+                        "title": "Learn to Squat for Longevity - Stephen Hubbard (20 mins)",
+                        "speaker": ""
+                    }
+                ]
+            },
+            {
+                "time": "2:00 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Automating animal studies to accelerate aging research",
+                    "speaker": "Michael Florea"
+                }]
+            },
+            {
+                "time": "2:20 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Rejuvenating the immune system",
+                    "speaker": "Andrea Cipriano"
+                }]
+            },
+            {
+                "time": "2:40 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Scientific Theories of Change",
+                    "speaker": "Adam Gries"
+                }]
+            },
+            {
+                "time": "3:00 PM",
+                "events": [
+                    {
+                        "type": "BREAK",
+                        "location": "Main Stage",
+                        "title": "Break"
+                    },
+                    {
+                        "type": "ACTIVITY",
+                        "location": "Cantor Cottage",
+                        "title": "Neuro-Designed Audio Journey - Markus Pesonen (40 mins)",
+                        "speaker": ""
+                    }
+                ]
+            },
+            {
+                "time": "3:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Mommy wants my blood: studies of blood, plasma exchange and tissue repair after injury in mice, with implications for people too.",
+                    "speaker": "Mike Conboy"
+                }]
+            },
+            {
+                "time": "3:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Debate on Theories of Aging",
+                    "speakers": ["Aubrey de Grey", "Peter Fedichev"]
+                }]
+            },
+            {
+                "time": "4:50 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Social"
+                }]
+            }
+        ]
+    }
+}
