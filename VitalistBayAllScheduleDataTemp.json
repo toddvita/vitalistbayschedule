@@ -2084,5 +2084,377 @@
             }]
         }
     ]
+},
+"day12": {
+    "date": "May 24",
+    "schedule": [
+        {
+            "time": "7:00 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Main Stage",
+                "title": "Meditation"
+            }]
+        },
+        {
+            "time": "7:30 AM", 
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Bayes House - Attic",
+                "title": "Yoga - Dominique Darvas"
+            }]
+        },
+        {
+            "time": "8:00 AM",
+            "events": [{
+                "type": "SOCIAL", 
+                "location": "Main Stage",
+                "title": "Registration starts"
+            }]
+        },
+        {
+            "time": "8:30 AM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage", 
+                "title": "Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+            }]
+        },
+        {
+            "time": "10:00 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Brief Welcome Remarks",
+                "speaker": "Adam Gries"
+            }]
+        },
+        {
+            "time": "10:10 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "",
+                "speaker": "Robin Hanson"
+            }]
+        },
+        {
+            "time": "10:30 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Opportunities for Longevity Medicine under MAHA",
+                "speaker": "Breanna Deutsch"
+            }]
+        },
+        {
+            "time": "10:50 AM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "11:10 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "The Opportunity Window is Now - Regulatory Fast-Track Options for Radical Life Extension",
+                "speaker": "Niklas Anzinger"
+            }]
+        },
+        {
+            "time": "11:30 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Why Openly Transhumanist Politics is Necessary for Vitalism to Succeed",
+                "speaker": "Gennady Stolyarov II"
+            }]
+        },
+        {
+            "time": "11:50 AM",
+            "events": [{
+                "type": "NETWORKING",
+                "location": "Main Stage",
+                "title": "Lightning Networking x Exploration"
+            }]
+        },
+        {
+            "time": "12:30 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Lunch"
+            }]
+        },
+        {
+            "time": "1:30 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "The Healthspan Revolution: Making Longevity Accessible to Everyone",
+                "speaker": "Hisham Badaruddin"
+            }]
+        },
+        {
+            "time": "1:50 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Longevity as a Human Right",
+                "speaker": "Arkadi Mazin"
+            }]
+        },
+        {
+            "time": "2:10 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Why Lobbying Congress is the Most Impactful Effort to Benefit the Longevity Industry and Healthspan",
+                "speaker": "Dylan Livingston"
+            }]
+        },
+        {
+            "time": "2:30 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "2:50 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "The Wise View - Defending the Indefensible",
+                "speaker": "Patrick Linden"
+            }]
+        },
+        {
+            "time": "3:10 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "How should we allocate resources between people suffering from diseases now, and everybody being on track to suffer from aging?",
+                "speaker": "John Davis"
+            }]
+        },
+        {
+            "time": "3:30 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "An exploration of the distinction between \"true immortality\" and \"medical immortality\"/radical life extension and its implications",
+                "speaker": "John Martin Fischer"
+            }]
+        },
+        {
+            "time": "3:50 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "4:10 PM",
+            "events": [{
+                "type": "PITCH",
+                "location": "Main Stage",
+                "title": "Lightning Pitches"
+            }]
+        },
+        {
+            "time": "5:10 PM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Social"
+            }]
+        },
+        {
+            "time": "6:30 PM",
+            "events": [{
+                "type": "OTHER",
+                "location": "Main Stage",
+                "title": "Clear Out"
+            }]
+        },
+        {
+            "time": "8:30 PM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Afterparty"
+            }]
+        }
+    ]
+},
+"day13": {
+    "date": "May 25",
+    "schedule": [
+        {
+            "time": "7:00 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Main Stage",
+                "title": "Meditation"
+            }]
+        },
+        {
+            "time": "7:30 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Bayes House - Attic",
+                "title": "Yoga - Dominique Darvas"
+            }]
+        },
+        {
+            "time": "8:00 AM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Registration starts"
+            }]
+        },
+        {
+            "time": "8:30 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Main Stage",
+                "title": "Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+            }]
+        },
+        {
+            "time": "10:10 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Is the Free State Project Working?",
+                "speaker": "Jason Sorens"
+            }]
+        },
+        {
+            "time": "10:30 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "",
+                "speaker": "Kamen Shoylev"
+            }]
+        },
+        {
+            "time": "10:50 AM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "11:10 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Reframing Longevity: Public Perceptions and the Challenges of Science-Society Engagement",
+                "speaker": "Alberto Aparicio"
+            }]
+        },
+        {
+            "time": "11:30 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "",
+                "speaker": "David Gobel"
+            }]
+        },
+        {
+            "time": "11:50 AM",
+            "events": [{
+                "type": "NETWORKING",
+                "location": "Main Stage",
+                "title": "Lightning Networking x Exploration"
+            }]
+        },
+        {
+            "time": "12:30 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Lunch"
+            }]
+        },
+        {
+            "time": "1:30 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "1:50 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Patients as Catalysts: The Hidden Force Behind Healthcare Policy Reform",
+                "speaker": "Melissa King"
+            }]
+        },
+        {
+            "time": "2:10 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "A+ for Communication, D- for Theory of Change",
+                "speaker": "Adam Gries"
+            }]
+        },
+        {
+            "time": "2:30 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "2:50 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "How to Maximize the Value in Your Infinite Life",
+                "speaker": "Travis Timmerman"
+            }]
+        },
+        {
+            "time": "3:10 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "5:10 PM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Social"
+            }]
+        },
+        {
+            "time": "6:30 PM",
+            "events": [{
+                "type": "OTHER",
+                "location": "Main Stage",
+                "title": "Clear Out"
+            }]
+        }
+    ]
 }
 }
