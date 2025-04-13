@@ -1718,5 +1718,371 @@
                 }]
             }
         ]
-    }
+    },
+    "day10": {
+    "date": "May 17",
+    "schedule": [
+        {
+            "time": "7:00 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Main Stage",
+                "title": "Meditation"
+            }]
+        },
+        {
+            "time": "7:30 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Bayes House - Attic",
+                "title": "Yoga - Dominique Darvas"
+            }]
+        },
+        {
+            "time": "8:00 AM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Registration starts"
+            }]
+        },
+        {
+            "time": "8:30 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Main Stage",
+                "title": "Activation, Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+            }]
+        },
+        {
+            "time": "10:00 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Global Cryonics Summit Team - Brief Welcome Remarks",
+                "speakers": ["Daniel Walters", "Rebecca Ziegler", "Max Marty", "Eric Magro"]
+            }]
+        },
+        {
+            "time": "10:10 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Climbing the Ladder of Science",
+                "speaker": "Max More"
+            }]
+        },
+        {
+            "time": "10:40 AM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Greatest Concern About Cryonics Survey"
+            }]
+        },
+        {
+            "time": "10:45 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "What are memories made of? A survey of neuroscientists on the structural basis of survival",
+                "speaker": "Ariel Zeleznikow-Johnston"
+            }]
+        },
+        {
+            "time": "11:10 AM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "11:30 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "The Reality of Cryonics: Lessons from 50 Years on the Front Lines",
+                "speaker": "James Arrowood"
+            }]
+        },
+        {
+            "time": "11:55 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Tomorrow Bio - Growing & Improving Cryonics",
+                "speaker": "Emil Kendziorra"
+            }]
+        },
+        {
+            "time": "12:20 PM",
+            "events": [{
+                "type": "NETWORKING",
+                "location": "Main Stage",
+                "title": "Lightning Networking x Exploration"
+            }]
+        },
+        {
+            "time": "12:50 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Lunch"
+            }]
+        },
+        {
+            "time": "1:50 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Of Cryonics and Cryptography",
+                "speaker": "Ralph Merkle"
+            }]
+        },
+        {
+            "time": "2:25 PM",
+            "events": [{
+                "type": "DEBATE",
+                "location": "Main Stage",
+                "title": "Longevity vs. Cryonics Debate - Points of Alignment & Divergence",
+                "speakers": ["Emil Kendziorra", "Karl Pfleger"]
+            }]
+        },
+        {
+            "time": "3:20 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Cryonics as Life Extension: Completing the Longevity Toolkit",
+                "speaker": "James Arrowood"
+            }]
+        },
+        {
+            "time": "3:40 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "4:00 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "How and Why Not to Cryocrastinate",
+                "speaker": "Rebecca Ziegler"
+            }]
+        },
+        {
+            "time": "4:25 PM",
+            "events": [{
+                "type": "INTERVIEW",
+                "location": "Main Stage",
+                "title": "An Interview with Ralph Merkle",
+                "speakers": ["Ralph Merkle", "Max Marty"]
+            }]
+        },
+        {
+            "time": "5:05 PM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Social"
+            }]
+        },
+        {
+            "time": "6:30 PM",
+            "events": [{
+                "type": "OTHER",
+                "location": "Main Stage",
+                "title": "Clear Out"
+            }]
+        },
+        {
+            "time": "8:30 PM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Afterparty"
+            }]
+        }
+    ]
+},
+"day11": {
+    "date": "May 18",
+    "schedule": [
+        {
+            "time": "7:00 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Main Stage",
+                "title": "Meditation"
+            }]
+        },
+        {
+            "time": "7:30 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Bayes House - Attic",
+                "title": "Yoga - Dominique Darvas"
+            }]
+        },
+        {
+            "time": "8:00 AM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Registration starts"
+            }]
+        },
+        {
+            "time": "8:30 AM",
+            "events": [{
+                "type": "ACTIVITY",
+                "location": "Main Stage",
+                "title": "Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+            }]
+        },
+        {
+            "time": "10:00 AM",
+            "events": [{
+                "type": "PANEL",
+                "location": "Main Stage",
+                "title": "Biostasis: A Roadmap for Research in Preservation and Potential Revival of Humans",
+                "speakers": ["Andrew McKenzie", "Brian Wowk", "Borys Wrobel", "Emil Kendziorra"]
+            }]
+        },
+        {
+            "time": "11:05 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "CryoDAO",
+                "speaker": "Kai Micah Mills"
+            }]
+        },
+        {
+            "time": "11:35 AM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "11:55 AM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "CryoDAO Whole-Body Cryopreservation Project",
+                "speaker": "Aschwin de Wolf"
+            }]
+        },
+        {
+            "time": "12:20 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Beyond Ice: Modern Approaches to Organ Cryopreservation",
+                "speaker": "Nick Llewellyn"
+            }]
+        },
+        {
+            "time": "12:45 PM",
+            "events": [{
+                "type": "NETWORKING",
+                "location": "Main Stage",
+                "title": "Lightning Networking x Exploration"
+            }]
+        },
+        {
+            "time": "1:15 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Lunch"
+            }]
+        },
+        {
+            "time": "2:15 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Addressing Your Greatest Cryonics Doubts",
+                "speaker": "Emil Kendziorra"
+            }]
+        },
+        {
+            "time": "2:40 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Recent Advances in Rabbit Brain Cryopreservation",
+                "speaker": "Ralf Spindler"
+            }]
+        },
+        {
+            "time": "3:10 PM",
+            "events": [{
+                "type": "BREAK",
+                "location": "Main Stage",
+                "title": "Break"
+            }]
+        },
+        {
+            "time": "3:30 PM",
+            "events": [{
+                "type": "PANEL",
+                "location": "Main Stage",
+                "title": "Science Deepdive Roundtable: The Present & Future of Cryonics Science",
+                "speakers": ["Aschwin de Wolf", "Ralf Spindler", "Ariel Zeleznikow-Johnston", "Nick Llewellyn"]
+            }]
+        },
+        {
+            "time": "4:35 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Oregon Brain Preservation: Developing transparent and accessible structural brain preservation options",
+                "speaker": "Andrew McKenzie"
+            }]
+        },
+        {
+            "time": "5:00 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Biostasis at Nectome",
+                "speaker": "Borys Wrobel"
+            }]
+        },
+        {
+            "time": "5:25 PM",
+            "events": [{
+                "type": "TALK",
+                "location": "Main Stage",
+                "title": "Cryonics, Community, and Culture",
+                "speakers": ["Daniel Walters", "Rebecca Ziegler", "Max Marty", "Eric Magro"]
+            }]
+        },
+        {
+            "time": "5:35 PM",
+            "events": [{
+                "type": "SOCIAL",
+                "location": "Main Stage",
+                "title": "Social"
+            }]
+        },
+        {
+            "time": "6:30 PM",
+            "events": [{
+                "type": "OTHER",
+                "location": "Main Stage",
+                "title": "Clear Out"
+            }]
+        }
+    ]
+}
 }
