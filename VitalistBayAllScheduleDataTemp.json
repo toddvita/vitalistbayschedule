@@ -1354,5 +1354,369 @@
                 }]
             }
         ]
+    },
+    "day8": {
+        "date": "May 3rd",
+        "schedule": [
+            {
+                "time": "7:00 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Meditation"
+                }]
+            },
+            {
+                "time": "7:30 AM", 
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Bayes House - Attic",
+                    "title": "Yoga - Dominique Darvas"
+                }]
+            },
+            {
+                "time": "8:00 AM",
+                "events": [{
+                    "type": "SOCIAL", 
+                    "location": "Main Stage",
+                    "title": "Registration starts"
+                }]
+            },
+            {
+                "time": "8:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage", 
+                    "title": "Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+                }]
+            },
+            {
+                "time": "10:00 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Brief Welcome Remarks",
+                    "speaker": "Adam Gries"
+                }]
+            },
+            {
+                "time": "10:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Why it makes sense to invest in longevity",
+                    "speaker": "Ole Mensching"
+                }]
+            },
+            {
+                "time": "10:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Renewal bio - human stem cell derived embryo models for longevity replacement therapy",
+                    "speaker": "Omri Amirav-Drory"
+                }]
+            },
+            {
+                "time": "10:50 AM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "11:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "An AI virtual cell reveals a universal therapeutic approach to the diseases of aging",
+                    "speaker": "Daniel Ives"
+                }]
+            },
+            {
+                "time": "11:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Mobile opportunities in Health and Wellness",
+                    "speaker": "Aykut Karaalioglu"
+                }]
+            },
+            {
+                "time": "11:50 AM",
+                "events": [{
+                    "type": "NETWORKING",
+                    "location": "Main Stage",
+                    "title": "Lightning Networking x Exploration"
+                }]
+            },
+            {
+                "time": "12:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Lunch"
+                }]
+            },
+            {
+                "time": "1:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Longevity industry stratification, investment activity and future longevity markets",
+                    "speaker": "Phil Newman"
+                }]
+            },
+            {
+                "time": "1:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "The Quickest Wins in the Longest Game: How Ossium Does Longevity at the Speed of Venture",
+                    "speaker": "Kevin Caldwell"
+                }]
+            },
+            {
+                "time": "2:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "How to choose aging biotech investments to maximize the field's chance of success",
+                    "speaker": "Karl Pfleger"
+                }]
+            },
+            {
+                "time": "2:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "2:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Building and Investing in Longevity Biotech (LongBio)",
+                    "speaker": "Sebastian Brunemeier"
+                }]
+            },
+            {
+                "time": "3:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Aging, Atherosclerosis, and the Future of Longevity: Cyclarity's First Drug in Human Trials",
+                    "speaker": "Matthew O'Connor"
+                }]
+            },
+            {
+                "time": "3:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "The economics and geopolitics of longevity",
+                    "speaker": "Mac Davis"
+                }]
+            },
+            {
+                "time": "3:50 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "4:10 PM",
+                "events": [{
+                    "type": "PITCH",
+                    "location": "Main Stage",
+                    "title": "Lightning Pitches"
+                }]
+            },
+            {
+                "time": "5:10 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Social"
+                }]
+            },
+            {
+                "time": "6:30 PM",
+                "events": [{
+                    "type": "OTHER",
+                    "location": "Main Stage",
+                    "title": "Clear Out"
+                }]
+            },
+            {
+                "time": "8:30 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Afterparty"
+                }]
+            }
+        ]
+    },
+    "day9": {
+        "date": "May 4th",
+        "schedule": [
+            {
+                "time": "7:00 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Meditation"
+                }]
+            },
+            {
+                "time": "7:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Bayes House - Attic",
+                    "title": "Yoga - Dominique Darvas"
+                }]
+            },
+            {
+                "time": "8:00 AM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Registration starts"
+                }]
+            },
+            {
+                "time": "8:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+                }]
+            },
+            {
+                "time": "10:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "The State of Longevity Investing",
+                    "speaker": "Nathan Cheng"
+                }]
+            },
+            {
+                "time": "10:30 AM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "11:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Fireside",
+                    "speaker": "Nish Bhat"
+                }]
+            },
+            {
+                "time": "11:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Why human health is the best opportunity of this decade",
+                    "speaker": "Dave Messina"
+                }]
+            },
+            {
+                "time": "11:50 AM",
+                "events": [{
+                    "type": "NETWORKING",
+                    "location": "Main Stage",
+                    "title": "Lightning Networking x Exploration"
+                }]
+            },
+            {
+                "time": "12:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Lunch"
+                }]
+            },
+            {
+                "time": "1:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Fireside",
+                    "speaker": "Nils Regge"
+                }]
+            },
+            {
+                "time": "1:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "Anastasiya Giarletta"
+                }]
+            },
+            {
+                "time": "2:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Strategies for Deploying Capital to Accelerate Longevity",
+                    "speaker": "Adam Gries"
+                }]
+            },
+            {
+                "time": "2:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "2:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Investing in Cryopreservation",
+                    "speaker": "Emil Kendziorra"
+                }]
+            },
+            {
+                "time": "3:10 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "5:10 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Social"
+                }]
+            },
+            {
+                "time": "6:30 PM",
+                "events": [{
+                    "type": "OTHER",
+                    "location": "Main Stage",
+                    "title": "Clear Out"
+                }]
+            }
+        ]
     }
 }
