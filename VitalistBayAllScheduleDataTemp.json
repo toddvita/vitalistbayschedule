@@ -217,19 +217,11 @@
             },
             {
                 "time": "11:00 AM",
-                "events": [
-                    {
-                        "type": "BREAK",
-                        "location": "Main Stage",
-                        "title": "Break"
-                    },
-                    {
-                        "type": "ACTIVITY",
-                        "location": "Main Stage",
-                        "title": "Pilates - Victoria Forest (60 mins)",
-                        "speaker": ""
-                    }
-                ]
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
             },
             {
                 "time": "11:20 AM",
@@ -242,11 +234,19 @@
             },
             {
                 "time": "11:40 AM",
-                "events": [{
-                    "type": "NETWORKING",
-                    "location": "Main Stage",
-                    "title": "Lightning Networking"
-                }]
+                "events": [
+                    {
+                        "type": "NETWORKING",
+                        "location": "Main Stage",
+                        "title": "Lightning Networking"
+                    },
+                    {
+                        "type": "ACTIVITY",
+                        "location": "Cantor Cottage",
+                        "title": "Pilates - Victoria Forest (60 mins)",
+                        "speaker": ""
+                    }
+                ]
             },
             {
                 "time": "12:20 PM",
@@ -278,7 +278,7 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Rejuvenating the immune system",
+                    "title": "Clocking Out: From Aging Metrics to Immune System Rejuvenation through partial reprogramming",
                     "speaker": "Andrea Cipriano"
                 }]
             },
@@ -322,7 +322,7 @@
                     "type": "TALK",
                     "location": "Main Stage",
                     "title": "Debate on Theories of Aging",
-                    "speakers": ["Aubrey de Grey", "Peter Fedichev"]
+                    "speakers": ["Aubrey de Grey", "Yuri Deigin"]
                 }]
             },
             {
