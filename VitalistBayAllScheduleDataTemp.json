@@ -424,22 +424,6 @@
                 }]
             },
             {
-                "time": "11:50 AM",
-                "events": [{
-                    "type": "NETWORKING",
-                    "location": "Main Stage",
-                    "title": "Lightning Networking x Exploration"
-                }]
-            },
-            {
-                "time": "12:30 PM",
-                "events": [{
-                    "type": "BREAK",
-                    "location": "Main Stage",
-                    "title": "Lunch"
-                }]
-            },
-            {
                 "time": "1:30 PM",
                 "events": [
                     {
@@ -449,89 +433,6 @@
                         "speaker": "Erick Brimen"
                     }
                 ]
-            },
-            {
-                "time": "1:50 PM",
-                "events": [
-                    {
-                        "type": "TALK",
-                        "location": "Main Stage",
-                        "title": "Accelerating Human Enhancement & The Biohacker Network State",
-                        "speaker": "Mgoes"
-                    }
-                ]
-            },
-            {
-                "time": "2:10 PM",
-                "events": [{
-                    "type": "BREAK",
-                    "location": "Main Stage",
-                    "title": "Break"
-                }]
-            },
-            {
-                "time": "2:50 PM",
-                "events": [
-                    {
-                        "type": "TALK",
-                        "location": "Main Stage",
-                        "title": "A New, Large Scale Cryo Facility is Born",
-                        "speaker": "Kai Micah Mills"
-                    }
-                ]
-            },
-            {
-                "time": "3:10 PM",
-                "events": [
-                    {
-                        "type": "TALK",
-                        "location": "Main Stage",
-                        "title": "Longevity and Vitality: Regenerative Solutions for Male Sexual Health in Later Life",
-                        "speaker": "Hugo Bailly"
-                    }
-                ]
-            },
-            {
-                "time": "3:30 PM",
-                "events": [
-                    {
-                        "type": "BREAK",
-                        "location": "Main Stage",
-                        "title": "Break"
-                    }
-                ]
-            },
-            {
-                "time": "3:50 PM",
-                "events": [{
-                    "type": "PITCH",
-                    "location": "Main Stage",
-                    "title": "Hackathon Presentations and Prizes"
-                }]
-            },
-            {
-                "time": "5:10 PM",
-                "events": [{
-                    "type": "SOCIAL",
-                    "location": "Main Stage",
-                    "title": "Social"
-                }]
-            },
-            {
-                "time": "6:30 PM",
-                "events": [{
-                    "type": "OTHER",
-                    "location": "Main Stage",
-                    "title": "Clear Out"
-                }]
-            },
-            {
-                "time": "8:30 PM",
-                "events": [{
-                    "type": "SOCIAL",
-                    "location": "Main Stage",
-                    "title": "Afterparty"
-                }]
             }
         ]
     },
