@@ -334,5 +334,407 @@
                 }]
             }
         ]
+    },
+    {
+    "day3": {
+        "date": "April 19th",
+        "schedule": [
+            {
+                "time": "7:00 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Meditation"
+                }]
+            },
+            {
+                "time": "7:30 AM", 
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Bayes House - Attic",
+                    "title": "Yoga - Dominique Darvas"
+                }]
+            },
+            {
+                "time": "8:00 AM",
+                "events": [{
+                    "type": "SOCIAL", 
+                    "location": "Main Stage",
+                    "title": "Registration starts"
+                }]
+            },
+            {
+                "time": "8:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage", 
+                    "title": "Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+                }]
+            },
+            {
+                "time": "10:00 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Brief Welcome Remarks",
+                    "speaker": "Adam Gries"
+                }]
+            },
+            {
+                "time": "10:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "Patri Friedman"
+                }]
+            },
+            {
+                "time": "10:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Leveraging Blockchain for Good",
+                    "speaker": "Freya Chen"
+                }]
+            },
+            {
+                "time": "10:50 AM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "11:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "VitaDAO, the first and biggest decentralized effort to solve aging",
+                    "speaker": "Laurence Ion"
+                }]
+            },
+            {
+                "time": "11:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Will We Solve Death by Becoming Cyborgs?",
+                    "speaker": "Tomer Landsberger"
+                }]
+            },
+            {
+                "time": "11:50 AM",
+                "events": [{
+                    "type": "NETWORKING",
+                    "location": "Main Stage",
+                    "title": "Lightning Networking x Exploration"
+                }]
+            },
+            {
+                "time": "12:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Lunch"
+                }]
+            },
+            {
+                "time": "1:30 PM",
+                "events": [
+                    {
+                        "type": "TALK",
+                        "location": "Main Stage",
+                        "title": "How Improved Governance Can Revolutionize Biotechnology",
+                        "speaker": "Erick Brimen"
+                    }
+                ]
+            },
+            {
+                "time": "1:50 PM",
+                "events": [
+                    {
+                        "type": "TALK",
+                        "location": "Main Stage",
+                        "title": "Accelerating Human Enhancement & The Biohacker Network State",
+                        "speaker": "Mgoes"
+                    }
+                ]
+            },
+            {
+                "time": "2:10 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "2:50 PM",
+                "events": [
+                    {
+                        "type": "TALK",
+                        "location": "Main Stage",
+                        "title": "A New, Large Scale Cryo Facility is Born",
+                        "speaker": "Kai Micah Mills"
+                    }
+                ]
+            },
+            {
+                "time": "3:10 PM",
+                "events": [
+                    {
+                        "type": "TALK",
+                        "location": "Main Stage",
+                        "title": "Longevity and Vitality: Regenerative Solutions for Male Sexual Health in Later Life",
+                        "speaker": "Hugo Bailly"
+                    }
+                ]
+            },
+            {
+                "time": "3:30 PM",
+                "events": [
+                    {
+                        "type": "BREAK",
+                        "location": "Main Stage",
+                        "title": "Break"
+                    }
+                ]
+            },
+            {
+                "time": "3:50 PM",
+                "events": [{
+                    "type": "PITCH",
+                    "location": "Main Stage",
+                    "title": "Hackathon Presentations and Prizes"
+                }]
+            },
+            {
+                "time": "5:10 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Social"
+                }]
+            },
+            {
+                "time": "6:30 PM",
+                "events": [{
+                    "type": "OTHER",
+                    "location": "Main Stage",
+                    "title": "Clear Out"
+                }]
+            },
+            {
+                "time": "8:30 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Afterparty"
+                }]
+            }
+        ]
+    },
+    "day4": {
+        "date": "April 20th",
+        "schedule": [
+            {
+                "time": "7:00 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Meditation"
+                }]
+            },
+            {
+                "time": "7:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Bayes House - Attic",
+                    "title": "Yoga - Dominique Darvas"
+                }]
+            },
+            {
+                "time": "8:00 AM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Registration starts"
+                }]
+            },
+            {
+                "time": "8:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+                }]
+            },
+            {
+                "time": "10:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Replace the NIH: One Follicle at a Time",
+                    "speaker": "Andrew Verbinnen"
+                }]
+            },
+            {
+                "time": "10:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Curetopia: the Rare Disease DAO",
+                    "speaker": "Ethan Perlstein"
+                }]
+            },
+            {
+                "time": "10:50 AM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "11:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Freedom Cities: Building Zones for Bio Acceleration in the United States",
+                    "speaker": "Mark Lutter"
+                }]
+            },
+            {
+                "time": "11:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Sophia DAO: Accelerating Human Intelligence Enhancement Through a Global Decentralized Community",
+                    "speaker": "Anatoly Karlin"
+                }]
+            },
+            {
+                "time": "11:50 AM",
+                "events": [{
+                    "type": "NETWORKING",
+                    "location": "Main Stage",
+                    "title": "Lightning Networking x Exploration"
+                }]
+            },
+            {
+                "time": "12:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Lunch"
+                }]
+            },
+            {
+                "time": "1:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Path + Challenges for AGI To Solve Longevity",
+                    "speaker": "Vincent Weisser"
+                }]
+            },
+            {
+                "time": "1:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "JellyfishDAO - Creating Media Hits to Promote a Cultural Pro-Longevity Shift",
+                    "speakers": ["Daniel Sollinger", "Aimee Schoof", "Tim Maupin", "Zoltan Istvan"]
+                }]
+            },
+            {
+                "time": "2:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "The Potential of BioAgents in Autonomous Research",
+                    "speaker": "Erik Van Winkle"
+                }]
+            },
+            {
+                "time": "2:30 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "2:50 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Incubating Whole-Body Cryopreservation & Cryosleep for Space Travel",
+                    "speaker": "Eli Mohamad"
+                }]
+            },
+            {
+                "time": "3:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Pitfalls and Challenges in Jurisdictional Arbitrage in Montana",
+                    "speaker": "Adam Gries"
+                }]
+            },
+            {
+                "time": "3:30 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Scaling N-of-1: Translating Individual Experimentation into Precision Longevity Protocols",
+                    "speaker": "Jasmine Smith"
+                }]
+            },
+            {
+                "time": "3:50 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "4:10 PM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "JellyfishDAO Panel - Moderated by Zoltan Istvan",
+                    "speakers": ["Daniel Sollinger", "Aimee Schoof", "Tim Maupin", "Zoltan Istvan"]
+                }]
+            },
+            {
+                "time": "4:50 PM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "5:10 PM",
+                "events": [{
+                    "type": "SOCIAL",
+                    "location": "Main Stage",
+                    "title": "Social"
+                }]
+            },
+            {
+                "time": "6:30 PM",
+                "events": [{
+                    "type": "OTHER",
+                    "location": "Main Stage",
+                    "title": "Clear Out"
+                }]
+            }
+        ]
     }
+}
 }
