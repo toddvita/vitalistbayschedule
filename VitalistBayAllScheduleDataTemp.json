@@ -423,14 +423,14 @@
                     "speaker": "Tomer Landsberger"
                 }]
             },
-           {
-                "time": "1:50 PM",
+            {
+                "time": "2:50 PM",
                 "events": [
                     {
                         "type": "TALK",
                         "location": "Main Stage",
-                        "title": "Accelerating Human Enhancement & The Biohacker Network State",
-                        "speaker": "Mgoes"
+                        "title": "A New, Large Scale Cryo Facility is Born",
+                        "speaker": "Kai Micah Mills"
                     }
                 ]
             }
