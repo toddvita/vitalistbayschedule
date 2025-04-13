@@ -335,6 +335,96 @@
             }
         ]
     },
+    "day3": {
+        "date": "April 19th",
+        "schedule": [
+            {
+                "time": "7:00 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage",
+                    "title": "Meditation"
+                }]
+            },
+            {
+                "time": "7:30 AM", 
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Bayes House - Attic",
+                    "title": "Yoga - Dominique Darvas"
+                }]
+            },
+            {
+                "time": "8:00 AM",
+                "events": [{
+                    "type": "SOCIAL", 
+                    "location": "Main Stage",
+                    "title": "Registration starts"
+                }]
+            },
+            {
+                "time": "8:30 AM",
+                "events": [{
+                    "type": "ACTIVITY",
+                    "location": "Main Stage", 
+                    "title": "Sauna and Cold Plunge, Coffee and light breakfast, Exploratorium Opens"
+                }]
+            },
+            {
+                "time": "10:00 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Brief Welcome Remarks",
+                    "speaker": "Adam Gries"
+                }]
+            },
+            {
+                "time": "10:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "",
+                    "speaker": "Patri Friedman"
+                }]
+            },
+            {
+                "time": "10:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Leveraging Blockchain for Good",
+                    "speaker": "Freya Chen"
+                }]
+            },
+            {
+                "time": "10:50 AM",
+                "events": [{
+                    "type": "BREAK",
+                    "location": "Main Stage",
+                    "title": "Break"
+                }]
+            },
+            {
+                "time": "11:10 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "VitaDAO, the first and biggest decentralized effort to solve aging",
+                    "speaker": "Laurence Ion"
+                }]
+            },
+            {
+                "time": "11:30 AM",
+                "events": [{
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Will We Solve Death by Becoming Cyborgs?",
+                    "speaker": "Tomer Landsberger"
+                }]
+            },
+        ]
+    },
     "day4": {
         "date": "April 20th",
         "schedule": [
