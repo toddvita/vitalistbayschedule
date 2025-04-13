@@ -423,14 +423,14 @@
                     "speaker": "Tomer Landsberger"
                 }]
             },
-            {
-                "time": "1:30 PM",
+           {
+                "time": "1:50 PM",
                 "events": [
                     {
                         "type": "TALK",
                         "location": "Main Stage",
-                        "title": "How Improved Governance Can Revolutionize Biotechnology",
-                        "speaker": "Erick Brimen"
+                        "title": "Accelerating Human Enhancement & The Biohacker Network State",
+                        "speaker": "Mgoes"
                     }
                 ]
             }
