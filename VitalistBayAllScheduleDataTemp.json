@@ -330,7 +330,7 @@
                 "events": [{
                     "type": "SOCIAL",
                     "location": "Main Stage",
-                    "title": "Social"
+                    "title": "SOCIAL - Karaoke, Sauna, Cold Plunge"
                 }]
             }
         ]
@@ -468,6 +468,17 @@
                 "location": "Main Stage",
                 "title": "Break"
             }]
+        },
+        {
+            "time": "2:20 PM",
+            "events": [
+                {
+                    "type": "TALK",
+                    "location": "Main Stage",
+                    "title": "Approaches to Creating, Fundraising for and Managing DAOs",
+                    "speaker": ""
+                }
+            ]
         },
         {
             "time": "2:50 PM",
@@ -887,8 +898,8 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Data Driven Interventions in Aging",
-                    "speaker": "Morten Scheibye-Knudsen"
+                    "title": "The State of Longevity Biotech",
+                    "speaker": "Nathan Cheng"
                 }]
             },
             {
@@ -1036,8 +1047,8 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "",
-                    "speaker": "Ryan Ware"
+                    "title": "Unlocking Longevity: Distilling Healthspan insights and trends from serving over 1,000 clients.",
+                    "speaker": "Kenneth Lou"
                 }]
             },
             {
@@ -1053,7 +1064,7 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Optimizing Healthspan in the Age of Scientific Wellness",
+                    "title": "Optimizing healthspan in the age of scientific wellness",
                     "speaker": "Nathan Price"
                 }]
             },
@@ -1287,8 +1298,8 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "The State of Longevity Biotech",
-                    "speaker": "Nathan Cheng"
+                    "title": "Data Driven Interventions in Aging",
+                    "speaker": "Morten Scheibye-Knudsen"
                 }]
             },
             {
@@ -2413,9 +2424,10 @@
         {
             "time": "1:30 PM",
             "events": [{
-                "type": "BREAK",
+                "type": "TALK",
                 "location": "Main Stage",
-                "title": "Break"
+                "title": "Policy generation for longevity",
+                "speaker": "Kamen Shoylev"
             }]
         },
         {
