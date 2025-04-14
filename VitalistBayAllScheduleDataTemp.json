@@ -796,8 +796,8 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Fireside",
-                    "speaker": "Kristen Fortney"
+                    "title": "Ending Chronic Disease to Unlock Longevity",
+                    "speaker": "Kian Sadeghi"
                 }]
             },
             {
@@ -822,8 +822,8 @@
                 "events": [{
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Ending Chronic Disease to Unlock Longevity",
-                    "speaker": "Kian Sadeghi"
+                    "title": "Fireside",
+                    "speaker": "Kristen Fortney"
                 }]
             },
             {
@@ -2167,7 +2167,7 @@
             "events": [{
                 "type": "TALK",
                 "location": "Main Stage",
-                "title": "",
+                "title": "Fireside",
                 "speaker": "Robin Hanson"
             }]
         },
@@ -2295,9 +2295,10 @@
         {
             "time": "4:10 PM",
             "events": [{
-                "type": "PITCH",
+                "type": "TALK",
                 "location": "Main Stage",
-                "title": "Lightning Pitches"
+                "title": "Philosophy Panel - Why isn't fighting death our most sacred commandment?",
+                "speaker":""
             }]
         },
         {
