@@ -642,15 +642,6 @@
                 }]
             },
             {
-                "time": "1:30 PM",
-                "events": [{
-                    "type": "TALK",
-                    "location": "Main Stage",
-                    "title": "Path + Challenges for AGI To Solve Longevity",
-                    "speaker": "Vincent Weisser"
-                }]
-            },
-            {
                 "time": "1:50 PM",
                 "events": [{
                     "type": "TALK",
