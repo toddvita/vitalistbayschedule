@@ -715,14 +715,6 @@
                 }]
             },
             {
-                "time": "4:50 PM",
-                "events": [{
-                    "type": "BREAK",
-                    "location": "Main Stage",
-                    "title": "Break"
-                }]
-            },
-            {
                 "time": "5:10 PM",
                 "events": [{
                     "type": "ACTIVITY",
