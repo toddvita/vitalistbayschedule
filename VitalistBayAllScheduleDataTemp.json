@@ -339,14 +339,6 @@
         "date": "April 19th",
         "schedule": [
         {
-            "time": "7:00 AM",
-            "events": [{
-                "type": "ACTIVITY",
-                "location": "Main Stage",
-                "title": "Meditation"
-            }]
-        },
-        {
             "time": "7:30 AM",
             "events": [{
                 "type": "ACTIVITY",
@@ -384,7 +376,7 @@
             "events": [{
                 "type": "TALK",
                 "location": "Main Stage",
-                "title": "",
+                "title": "Charter Cities: Past & Present",
                 "speaker": "Patri Friedman"
             }]
         },
@@ -403,6 +395,11 @@
                 "type": "BREAK",
                 "location": "Main Stage",
                 "title": "Break"
+            },
+            {
+                "type": "ACTIVITY",
+                "location": "Cantor Cottage",
+                "title": "Breathwork - Michelle Flores (20 min)"
             }]
         },
         {
@@ -426,9 +423,10 @@
         {
             "time": "11:50 AM",
             "events": [{
-                "type": "NETWORKING",
+                "type": "TALK",
                 "location": "Main Stage",
-                "title": "Lightning Networking x Exploration"
+                "title": "Kian Sadeghi - Nucleus’ collaboration with Balaji’s Network School and the future of genomics in new societies.",
+                "speaker": "Kian Sadeghi"
             }]
         },
         {
@@ -475,7 +473,7 @@
                 {
                     "type": "TALK",
                     "location": "Main Stage",
-                    "title": "Peptides: Nature’s Key to Healthspan & Longevity      ",
+                    "title": "Peptides: Nature’s Key to Healthspan & Longevity",
                     "speaker": "Hannah Janjua"
                 }
             ]
@@ -665,7 +663,12 @@
                     "type": "BREAK",
                     "location": "Main Stage",
                     "title": "Break"
-                }]
+                },
+                {
+                        "type": "ACTIVITY",
+                        "location": "Cantor Cottage",
+                        "title": "Meditation - Victoria Angel Heart "
+                    }]
             },
             {
                 "time": "2:50 PM",
@@ -722,9 +725,9 @@
             {
                 "time": "5:10 PM",
                 "events": [{
-                    "type": "SOCIAL",
+                    "type": "ACTIVITY",
                     "location": "Main Stage",
-                    "title": "Social"
+                    "title": "Neuro-Designed Audio Journey - Markus Pesonen (40 min)"
                 }]
             },
             {
